@@ -1,0 +1,6 @@
+{
+  "name": "JX Chat - Free AI & MCP Agent Hub",
+  "description": "Next-generation high-end AI Chatbot and Autonomous Agent powered by Kilo AI free gateway, Pollinations, and MCP server integrations with zero API keys required.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
